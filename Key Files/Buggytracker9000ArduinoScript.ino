@@ -1,3 +1,7 @@
+// All relevant code for this project is available at:
+// https://github.com/E1P3/BuggyTracker9000
+
+
 #include <WiFiNINA.h>
 #include "arduino_secrets.h"
 #include "MotorController.h"

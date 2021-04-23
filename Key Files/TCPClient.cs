@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Project relevant to this script is available at:
+// https://github.com/E1P3/BuggyTracker9000
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Net.Sockets;
